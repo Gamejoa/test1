@@ -1,1 +1,6 @@
-지성
+//초기화 git init
+// 스테이징 git add .
+// 커밋 git commit -m "메세지"
+// 브랜치 이름 설정 git branch -M branch 이름
+// 원격저장소 이름 git remote add origin GitHub 주소
+// 푸시 git push -u origin main 
